@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test screenshots & temp scripts
+screenshot*.png
+screenshot*.py
+start_and_capture.py
+s2.log
+
+# Misc
+.sudo_as_admin_successful
+PortableGit*
+
+.gitportable/
